@@ -1,0 +1,25 @@
+body{
+  background-image: url(kuri.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #6b6f6e;
+}
+
+
+/* TITRES ***************************************/
+.titres{
+  background-color: black;
+  opacity: 0.4;
+  padding:15px;
+}
+h1{
+  text-align: center;
+  color:#fff;
+  opacity: 1;
+}
+
+h2{
+  color:#fff;
+  text-align: center;
+  opacity:1;
+}

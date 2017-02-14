@@ -1,0 +1,22 @@
+/* NAV ************************************************/
+#menu{
+  top: 0;
+  left: 0;
+  width:100%;
+  display:inline-block;
+  font-family:fantasy;
+}
+
+#menu li{
+  float:left;
+  padding:1em;
+}
+
+li{
+  list-style: none;
+}
+
+li a{
+  text-decoration: none;
+  color:#001a47;
+}
