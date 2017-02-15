@@ -18,5 +18,28 @@ li{
 
 li a{
   text-decoration: none;
-  color:#001a47;
+  color:#002396;
+}
+
+/* PRESENTATION ****************************************/
+body{
+  background-color: black;
+}
+
+h1{
+color:white;
+font-family: fantasy;
+font-size: 30px;
+text-align: center;
+}
+
+p{
+  font-family:sans-serif;
+  color:white;
+  background-color: #0d111e;
+  padding:2em;
+}
+
+.kuri{
+  color:#e26600;
 }
