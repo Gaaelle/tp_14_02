@@ -18,7 +18,7 @@ li{
 
 li a{
   text-decoration: none;
-  color:#002396;
+  color:#005a68;
 }
 
 /* PRESENTATION ****************************************/
@@ -56,4 +56,12 @@ p{
 iframe{
   width:80%;
   height:300px;
+}
+
+
+/* CONTACT ******************************/
+.contact{
+  border: 2px solid #e26600;
+  text-align: center;
+  color:white;
 }
